@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Work\\Work 2025\\4. Makeen 2 Trainning\\Phase 4 - 4 monthes\\Problem_Solving_Practice\\CSharp_Code\\Employment_Salary_System\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A6FFE468-2252-4A13-B39E-CA9BC5E39A17}|Employment_Salary_System\\Employment_Salary_System.csproj|d:\\work\\work 2025\\4. makeen 2 trainning\\phase 4 - 4 monthes\\problem_solving_practice\\csharp_code\\employment_salary_system\\employment_salary_system\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A6FFE468-2252-4A13-B39E-CA9BC5E39A17}|Employment_Salary_System\\Employment_Salary_System.csproj|solutionrelative:employment_salary_system\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Work\\Work 2025\\4. Makeen 2 Trainning\\Phase 4 - 4 monthes\\Problem_Solving_Practice\\CSharp_Code\\Employment_Salary_System\\Employment_Salary_System\\Program.cs",
+              "RelativeDocumentMoniker": "Employment_Salary_System\\Program.cs",
+              "ToolTip": "D:\\Work\\Work 2025\\4. Makeen 2 Trainning\\Phase 4 - 4 monthes\\Problem_Solving_Practice\\CSharp_Code\\Employment_Salary_System\\Employment_Salary_System\\Program.cs",
+              "RelativeToolTip": "Employment_Salary_System\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-25T07:46:02.204Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
