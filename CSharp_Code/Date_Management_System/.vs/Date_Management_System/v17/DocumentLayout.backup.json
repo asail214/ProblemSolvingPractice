@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Work\\Work 2025\\4. Makeen 2 Trainning\\Phase 4 - 4 monthes\\Problem_Solving_Practice\\CSharp_Code\\Date_Management_System\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{99378314-0028-4721-A172-6A1535D71072}|Date_Management_System\\Date_Management_System.csproj|d:\\work\\work 2025\\4. makeen 2 trainning\\phase 4 - 4 monthes\\problem_solving_practice\\csharp_code\\date_management_system\\date_management_system\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{99378314-0028-4721-A172-6A1535D71072}|Date_Management_System\\Date_Management_System.csproj|solutionrelative:date_management_system\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Work\\Work 2025\\4. Makeen 2 Trainning\\Phase 4 - 4 monthes\\Problem_Solving_Practice\\CSharp_Code\\Date_Management_System\\Date_Management_System\\Program.cs",
+              "RelativeDocumentMoniker": "Date_Management_System\\Program.cs",
+              "ToolTip": "D:\\Work\\Work 2025\\4. Makeen 2 Trainning\\Phase 4 - 4 monthes\\Problem_Solving_Practice\\CSharp_Code\\Date_Management_System\\Date_Management_System\\Program.cs",
+              "RelativeToolTip": "Date_Management_System\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-25T07:34:25.027Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

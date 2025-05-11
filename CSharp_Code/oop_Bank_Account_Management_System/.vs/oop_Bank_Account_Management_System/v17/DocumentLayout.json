@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Work\\Work 2025\\4. Makeen 2 Trainning\\Phase 4 - 4 monthes\\C#\\intermediate\\W4_Assments\\002-OOP Assignment\\oop_Bank_Account_Management_System\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F8D7EA1E-5F10-4DB6-9E1E-58D14B7C515E}|oop_Bank_Account_Management_System\\oop_Bank_Account_Management_System.csproj|d:\\work\\work 2025\\4. makeen 2 trainning\\phase 4 - 4 monthes\\c#\\intermediate\\w4_assments\\002-oop assignment\\oop_bank_account_management_system\\oop_bank_account_management_system\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F8D7EA1E-5F10-4DB6-9E1E-58D14B7C515E}|oop_Bank_Account_Management_System\\oop_Bank_Account_Management_System.csproj|solutionrelative:oop_bank_account_management_system\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Work\\Work 2025\\4. Makeen 2 Trainning\\Phase 4 - 4 monthes\\C#\\intermediate\\W4_Assments\\002-OOP Assignment\\oop_Bank_Account_Management_System\\oop_Bank_Account_Management_System\\Program.cs",
+              "RelativeDocumentMoniker": "oop_Bank_Account_Management_System\\Program.cs",
+              "ToolTip": "D:\\Work\\Work 2025\\4. Makeen 2 Trainning\\Phase 4 - 4 monthes\\C#\\intermediate\\W4_Assments\\002-OOP Assignment\\oop_Bank_Account_Management_System\\oop_Bank_Account_Management_System\\Program.cs",
+              "RelativeToolTip": "oop_Bank_Account_Management_System\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAH0AAAA4AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-04T19:57:34.88Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

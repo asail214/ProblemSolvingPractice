@@ -1,0 +1,101 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Work\\Work 2025\\4. Makeen 2 Trainning\\Phase 4 - 4 monthes\\Problem_Solving_Practice\\CSharp_Code\\EmployeeOOP\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{2675F154-9FF5-4718-8CF5-C1004A2BED36}|EmployeeOOP\\EmployeeOOP.csproj|d:\\work\\work 2025\\4. makeen 2 trainning\\phase 4 - 4 monthes\\problem_solving_practice\\csharp_code\\employeeoop\\employeeoop\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2675F154-9FF5-4718-8CF5-C1004A2BED36}|EmployeeOOP\\EmployeeOOP.csproj|solutionrelative:employeeoop\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2675F154-9FF5-4718-8CF5-C1004A2BED36}|EmployeeOOP\\EmployeeOOP.csproj|d:\\work\\work 2025\\4. makeen 2 trainning\\phase 4 - 4 monthes\\problem_solving_practice\\csharp_code\\employeeoop\\employeeoop\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2675F154-9FF5-4718-8CF5-C1004A2BED36}|EmployeeOOP\\EmployeeOOP.csproj|solutionrelative:employeeoop\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2675F154-9FF5-4718-8CF5-C1004A2BED36}|EmployeeOOP\\EmployeeOOP.csproj|d:\\work\\work 2025\\4. makeen 2 trainning\\phase 4 - 4 monthes\\problem_solving_practice\\csharp_code\\employeeoop\\employeeoop\\models\\manager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2675F154-9FF5-4718-8CF5-C1004A2BED36}|EmployeeOOP\\EmployeeOOP.csproj|solutionrelative:employeeoop\\models\\manager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2675F154-9FF5-4718-8CF5-C1004A2BED36}|EmployeeOOP\\EmployeeOOP.csproj|d:\\work\\work 2025\\4. makeen 2 trainning\\phase 4 - 4 monthes\\problem_solving_practice\\csharp_code\\employeeoop\\employeeoop\\models\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2675F154-9FF5-4718-8CF5-C1004A2BED36}|EmployeeOOP\\EmployeeOOP.csproj|solutionrelative:employeeoop\\models\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2675F154-9FF5-4718-8CF5-C1004A2BED36}|EmployeeOOP\\EmployeeOOP.csproj|d:\\work\\work 2025\\4. makeen 2 trainning\\phase 4 - 4 monthes\\problem_solving_practice\\csharp_code\\employeeoop\\employeeoop\\models\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2675F154-9FF5-4718-8CF5-C1004A2BED36}|EmployeeOOP\\EmployeeOOP.csproj|solutionrelative:employeeoop\\models\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Manager.cs",
+              "DocumentMoniker": "D:\\Work\\Work 2025\\4. Makeen 2 Trainning\\Phase 4 - 4 monthes\\Problem_Solving_Practice\\CSharp_Code\\EmployeeOOP\\EmployeeOOP\\Models\\Manager.cs",
+              "RelativeDocumentMoniker": "EmployeeOOP\\Models\\Manager.cs",
+              "ToolTip": "D:\\Work\\Work 2025\\4. Makeen 2 Trainning\\Phase 4 - 4 monthes\\Problem_Solving_Practice\\CSharp_Code\\EmployeeOOP\\EmployeeOOP\\Models\\Manager.cs",
+              "RelativeToolTip": "EmployeeOOP\\Models\\Manager.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-04T07:59:24.003Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Customer.cs",
+              "DocumentMoniker": "D:\\Work\\Work 2025\\4. Makeen 2 Trainning\\Phase 4 - 4 monthes\\Problem_Solving_Practice\\CSharp_Code\\EmployeeOOP\\EmployeeOOP\\Models\\Customer.cs",
+              "RelativeDocumentMoniker": "EmployeeOOP\\Models\\Customer.cs",
+              "ToolTip": "D:\\Work\\Work 2025\\4. Makeen 2 Trainning\\Phase 4 - 4 monthes\\Problem_Solving_Practice\\CSharp_Code\\EmployeeOOP\\EmployeeOOP\\Models\\Customer.cs",
+              "RelativeToolTip": "EmployeeOOP\\Models\\Customer.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAAwBIAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-04T06:59:21.456Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Employee.cs",
+              "DocumentMoniker": "D:\\Work\\Work 2025\\4. Makeen 2 Trainning\\Phase 4 - 4 monthes\\Problem_Solving_Practice\\CSharp_Code\\EmployeeOOP\\EmployeeOOP\\Models\\Employee.cs",
+              "RelativeDocumentMoniker": "EmployeeOOP\\Models\\Employee.cs",
+              "ToolTip": "D:\\Work\\Work 2025\\4. Makeen 2 Trainning\\Phase 4 - 4 monthes\\Problem_Solving_Practice\\CSharp_Code\\EmployeeOOP\\EmployeeOOP\\Models\\Employee.cs",
+              "RelativeToolTip": "EmployeeOOP\\Models\\Employee.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAA2wBQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-04T06:59:04.758Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "User.cs",
+              "DocumentMoniker": "D:\\Work\\Work 2025\\4. Makeen 2 Trainning\\Phase 4 - 4 monthes\\Problem_Solving_Practice\\CSharp_Code\\EmployeeOOP\\EmployeeOOP\\Models\\User.cs",
+              "RelativeDocumentMoniker": "EmployeeOOP\\Models\\User.cs",
+              "ToolTip": "D:\\Work\\Work 2025\\4. Makeen 2 Trainning\\Phase 4 - 4 monthes\\Problem_Solving_Practice\\CSharp_Code\\EmployeeOOP\\EmployeeOOP\\Models\\User.cs",
+              "RelativeToolTip": "EmployeeOOP\\Models\\User.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAxwBUAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-04T06:58:50.291Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Work\\Work 2025\\4. Makeen 2 Trainning\\Phase 4 - 4 monthes\\Problem_Solving_Practice\\CSharp_Code\\EmployeeOOP\\EmployeeOOP\\Program.cs",
+              "RelativeDocumentMoniker": "EmployeeOOP\\Program.cs",
+              "ToolTip": "D:\\Work\\Work 2025\\4. Makeen 2 Trainning\\Phase 4 - 4 monthes\\Problem_Solving_Practice\\CSharp_Code\\EmployeeOOP\\EmployeeOOP\\Program.cs",
+              "RelativeToolTip": "EmployeeOOP\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-04T06:57:51.336Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

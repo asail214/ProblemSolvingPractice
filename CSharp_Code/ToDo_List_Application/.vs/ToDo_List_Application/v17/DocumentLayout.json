@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Work\\Work 2025\\4. Makeen 2 Trainning\\Phase 4 - 4 monthes\\C#\\intermediate\\W4_Assments\\ToDo_List_Application\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A18B76C4-15C0-4203-A8B6-95B16F15D5A0}|ToDo_List_Application\\ToDo_List_Application.csproj|d:\\work\\work 2025\\4. makeen 2 trainning\\phase 4 - 4 monthes\\c#\\intermediate\\w4_assments\\todo_list_application\\todo_list_application\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A18B76C4-15C0-4203-A8B6-95B16F15D5A0}|ToDo_List_Application\\ToDo_List_Application.csproj|solutionrelative:todo_list_application\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Work\\Work 2025\\4. Makeen 2 Trainning\\Phase 4 - 4 monthes\\C#\\intermediate\\W4_Assments\\ToDo_List_Application\\ToDo_List_Application\\Program.cs",
+              "RelativeDocumentMoniker": "ToDo_List_Application\\Program.cs",
+              "ToolTip": "D:\\Work\\Work 2025\\4. Makeen 2 Trainning\\Phase 4 - 4 monthes\\C#\\intermediate\\W4_Assments\\ToDo_List_Application\\ToDo_List_Application\\Program.cs",
+              "RelativeToolTip": "ToDo_List_Application\\Program.cs",
+              "ViewState": "AgIAAFUAAAAAAAAAAAAQwF8AAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-04T19:20:37.777Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

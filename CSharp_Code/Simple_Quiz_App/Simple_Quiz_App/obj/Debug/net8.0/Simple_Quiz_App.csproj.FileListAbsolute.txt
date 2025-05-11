@@ -1,0 +1,14 @@
+D:\Work\Work 2025\4. Makeen 2 Trainning\Phase 4 - 4 monthes\C#\intermediate\W4_Assments\Simple_Quiz_App\Simple_Quiz_App\bin\Debug\net8.0\Simple_Quiz_App.exe
+D:\Work\Work 2025\4. Makeen 2 Trainning\Phase 4 - 4 monthes\C#\intermediate\W4_Assments\Simple_Quiz_App\Simple_Quiz_App\bin\Debug\net8.0\Simple_Quiz_App.deps.json
+D:\Work\Work 2025\4. Makeen 2 Trainning\Phase 4 - 4 monthes\C#\intermediate\W4_Assments\Simple_Quiz_App\Simple_Quiz_App\bin\Debug\net8.0\Simple_Quiz_App.runtimeconfig.json
+D:\Work\Work 2025\4. Makeen 2 Trainning\Phase 4 - 4 monthes\C#\intermediate\W4_Assments\Simple_Quiz_App\Simple_Quiz_App\bin\Debug\net8.0\Simple_Quiz_App.dll
+D:\Work\Work 2025\4. Makeen 2 Trainning\Phase 4 - 4 monthes\C#\intermediate\W4_Assments\Simple_Quiz_App\Simple_Quiz_App\bin\Debug\net8.0\Simple_Quiz_App.pdb
+D:\Work\Work 2025\4. Makeen 2 Trainning\Phase 4 - 4 monthes\C#\intermediate\W4_Assments\Simple_Quiz_App\Simple_Quiz_App\obj\Debug\net8.0\Simple_Quiz_App.GeneratedMSBuildEditorConfig.editorconfig
+D:\Work\Work 2025\4. Makeen 2 Trainning\Phase 4 - 4 monthes\C#\intermediate\W4_Assments\Simple_Quiz_App\Simple_Quiz_App\obj\Debug\net8.0\Simple_Quiz_App.AssemblyInfoInputs.cache
+D:\Work\Work 2025\4. Makeen 2 Trainning\Phase 4 - 4 monthes\C#\intermediate\W4_Assments\Simple_Quiz_App\Simple_Quiz_App\obj\Debug\net8.0\Simple_Quiz_App.AssemblyInfo.cs
+D:\Work\Work 2025\4. Makeen 2 Trainning\Phase 4 - 4 monthes\C#\intermediate\W4_Assments\Simple_Quiz_App\Simple_Quiz_App\obj\Debug\net8.0\Simple_Quiz_App.csproj.CoreCompileInputs.cache
+D:\Work\Work 2025\4. Makeen 2 Trainning\Phase 4 - 4 monthes\C#\intermediate\W4_Assments\Simple_Quiz_App\Simple_Quiz_App\obj\Debug\net8.0\Simple_Quiz_App.dll
+D:\Work\Work 2025\4. Makeen 2 Trainning\Phase 4 - 4 monthes\C#\intermediate\W4_Assments\Simple_Quiz_App\Simple_Quiz_App\obj\Debug\net8.0\refint\Simple_Quiz_App.dll
+D:\Work\Work 2025\4. Makeen 2 Trainning\Phase 4 - 4 monthes\C#\intermediate\W4_Assments\Simple_Quiz_App\Simple_Quiz_App\obj\Debug\net8.0\Simple_Quiz_App.pdb
+D:\Work\Work 2025\4. Makeen 2 Trainning\Phase 4 - 4 monthes\C#\intermediate\W4_Assments\Simple_Quiz_App\Simple_Quiz_App\obj\Debug\net8.0\Simple_Quiz_App.genruntimeconfig.cache
+D:\Work\Work 2025\4. Makeen 2 Trainning\Phase 4 - 4 monthes\C#\intermediate\W4_Assments\Simple_Quiz_App\Simple_Quiz_App\obj\Debug\net8.0\ref\Simple_Quiz_App.dll

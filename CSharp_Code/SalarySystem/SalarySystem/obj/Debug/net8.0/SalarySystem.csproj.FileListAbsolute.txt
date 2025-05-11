@@ -1,0 +1,14 @@
+D:\Work\Work 2025\4. Makeen 2 Trainning\Phase 4 - 4 monthes\Problem_Solving_Practice\CSharp_Code\SalarySystem\SalarySystem\bin\Debug\net8.0\SalarySystem.exe
+D:\Work\Work 2025\4. Makeen 2 Trainning\Phase 4 - 4 monthes\Problem_Solving_Practice\CSharp_Code\SalarySystem\SalarySystem\bin\Debug\net8.0\SalarySystem.deps.json
+D:\Work\Work 2025\4. Makeen 2 Trainning\Phase 4 - 4 monthes\Problem_Solving_Practice\CSharp_Code\SalarySystem\SalarySystem\bin\Debug\net8.0\SalarySystem.runtimeconfig.json
+D:\Work\Work 2025\4. Makeen 2 Trainning\Phase 4 - 4 monthes\Problem_Solving_Practice\CSharp_Code\SalarySystem\SalarySystem\bin\Debug\net8.0\SalarySystem.dll
+D:\Work\Work 2025\4. Makeen 2 Trainning\Phase 4 - 4 monthes\Problem_Solving_Practice\CSharp_Code\SalarySystem\SalarySystem\bin\Debug\net8.0\SalarySystem.pdb
+D:\Work\Work 2025\4. Makeen 2 Trainning\Phase 4 - 4 monthes\Problem_Solving_Practice\CSharp_Code\SalarySystem\SalarySystem\obj\Debug\net8.0\SalarySystem.GeneratedMSBuildEditorConfig.editorconfig
+D:\Work\Work 2025\4. Makeen 2 Trainning\Phase 4 - 4 monthes\Problem_Solving_Practice\CSharp_Code\SalarySystem\SalarySystem\obj\Debug\net8.0\SalarySystem.AssemblyInfoInputs.cache
+D:\Work\Work 2025\4. Makeen 2 Trainning\Phase 4 - 4 monthes\Problem_Solving_Practice\CSharp_Code\SalarySystem\SalarySystem\obj\Debug\net8.0\SalarySystem.AssemblyInfo.cs
+D:\Work\Work 2025\4. Makeen 2 Trainning\Phase 4 - 4 monthes\Problem_Solving_Practice\CSharp_Code\SalarySystem\SalarySystem\obj\Debug\net8.0\SalarySystem.csproj.CoreCompileInputs.cache
+D:\Work\Work 2025\4. Makeen 2 Trainning\Phase 4 - 4 monthes\Problem_Solving_Practice\CSharp_Code\SalarySystem\SalarySystem\obj\Debug\net8.0\SalarySystem.dll
+D:\Work\Work 2025\4. Makeen 2 Trainning\Phase 4 - 4 monthes\Problem_Solving_Practice\CSharp_Code\SalarySystem\SalarySystem\obj\Debug\net8.0\refint\SalarySystem.dll
+D:\Work\Work 2025\4. Makeen 2 Trainning\Phase 4 - 4 monthes\Problem_Solving_Practice\CSharp_Code\SalarySystem\SalarySystem\obj\Debug\net8.0\SalarySystem.pdb
+D:\Work\Work 2025\4. Makeen 2 Trainning\Phase 4 - 4 monthes\Problem_Solving_Practice\CSharp_Code\SalarySystem\SalarySystem\obj\Debug\net8.0\SalarySystem.genruntimeconfig.cache
+D:\Work\Work 2025\4. Makeen 2 Trainning\Phase 4 - 4 monthes\Problem_Solving_Practice\CSharp_Code\SalarySystem\SalarySystem\obj\Debug\net8.0\ref\SalarySystem.dll

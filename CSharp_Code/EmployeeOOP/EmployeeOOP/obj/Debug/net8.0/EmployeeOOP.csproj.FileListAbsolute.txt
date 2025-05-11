@@ -1,0 +1,14 @@
+D:\Work\Work 2025\4. Makeen 2 Trainning\Phase 4 - 4 monthes\Problem_Solving_Practice\CSharp_Code\EmployeeOOP\EmployeeOOP\bin\Debug\net8.0\EmployeeOOP.exe
+D:\Work\Work 2025\4. Makeen 2 Trainning\Phase 4 - 4 monthes\Problem_Solving_Practice\CSharp_Code\EmployeeOOP\EmployeeOOP\bin\Debug\net8.0\EmployeeOOP.deps.json
+D:\Work\Work 2025\4. Makeen 2 Trainning\Phase 4 - 4 monthes\Problem_Solving_Practice\CSharp_Code\EmployeeOOP\EmployeeOOP\bin\Debug\net8.0\EmployeeOOP.runtimeconfig.json
+D:\Work\Work 2025\4. Makeen 2 Trainning\Phase 4 - 4 monthes\Problem_Solving_Practice\CSharp_Code\EmployeeOOP\EmployeeOOP\bin\Debug\net8.0\EmployeeOOP.dll
+D:\Work\Work 2025\4. Makeen 2 Trainning\Phase 4 - 4 monthes\Problem_Solving_Practice\CSharp_Code\EmployeeOOP\EmployeeOOP\bin\Debug\net8.0\EmployeeOOP.pdb
+D:\Work\Work 2025\4. Makeen 2 Trainning\Phase 4 - 4 monthes\Problem_Solving_Practice\CSharp_Code\EmployeeOOP\EmployeeOOP\obj\Debug\net8.0\EmployeeOOP.GeneratedMSBuildEditorConfig.editorconfig
+D:\Work\Work 2025\4. Makeen 2 Trainning\Phase 4 - 4 monthes\Problem_Solving_Practice\CSharp_Code\EmployeeOOP\EmployeeOOP\obj\Debug\net8.0\EmployeeOOP.AssemblyInfoInputs.cache
+D:\Work\Work 2025\4. Makeen 2 Trainning\Phase 4 - 4 monthes\Problem_Solving_Practice\CSharp_Code\EmployeeOOP\EmployeeOOP\obj\Debug\net8.0\EmployeeOOP.AssemblyInfo.cs
+D:\Work\Work 2025\4. Makeen 2 Trainning\Phase 4 - 4 monthes\Problem_Solving_Practice\CSharp_Code\EmployeeOOP\EmployeeOOP\obj\Debug\net8.0\EmployeeOOP.csproj.CoreCompileInputs.cache
+D:\Work\Work 2025\4. Makeen 2 Trainning\Phase 4 - 4 monthes\Problem_Solving_Practice\CSharp_Code\EmployeeOOP\EmployeeOOP\obj\Debug\net8.0\EmployeeOOP.dll
+D:\Work\Work 2025\4. Makeen 2 Trainning\Phase 4 - 4 monthes\Problem_Solving_Practice\CSharp_Code\EmployeeOOP\EmployeeOOP\obj\Debug\net8.0\refint\EmployeeOOP.dll
+D:\Work\Work 2025\4. Makeen 2 Trainning\Phase 4 - 4 monthes\Problem_Solving_Practice\CSharp_Code\EmployeeOOP\EmployeeOOP\obj\Debug\net8.0\EmployeeOOP.pdb
+D:\Work\Work 2025\4. Makeen 2 Trainning\Phase 4 - 4 monthes\Problem_Solving_Practice\CSharp_Code\EmployeeOOP\EmployeeOOP\obj\Debug\net8.0\EmployeeOOP.genruntimeconfig.cache
+D:\Work\Work 2025\4. Makeen 2 Trainning\Phase 4 - 4 monthes\Problem_Solving_Practice\CSharp_Code\EmployeeOOP\EmployeeOOP\obj\Debug\net8.0\ref\EmployeeOOP.dll

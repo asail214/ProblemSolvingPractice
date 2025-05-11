@@ -1,0 +1,14 @@
+D:\Work\Work 2025\4. Makeen 2 Trainning\Phase 4 - 4 monthes\C#\intermediate\W4_Assments\Simple_Bank_System\Simple_Bank_System\obj\Debug\net8.0\Simple_Bank_System.GeneratedMSBuildEditorConfig.editorconfig
+D:\Work\Work 2025\4. Makeen 2 Trainning\Phase 4 - 4 monthes\C#\intermediate\W4_Assments\Simple_Bank_System\Simple_Bank_System\obj\Debug\net8.0\Simple_Bank_System.AssemblyInfoInputs.cache
+D:\Work\Work 2025\4. Makeen 2 Trainning\Phase 4 - 4 monthes\C#\intermediate\W4_Assments\Simple_Bank_System\Simple_Bank_System\obj\Debug\net8.0\Simple_Bank_System.AssemblyInfo.cs
+D:\Work\Work 2025\4. Makeen 2 Trainning\Phase 4 - 4 monthes\C#\intermediate\W4_Assments\Simple_Bank_System\Simple_Bank_System\obj\Debug\net8.0\Simple_Bank_System.csproj.CoreCompileInputs.cache
+D:\Work\Work 2025\4. Makeen 2 Trainning\Phase 4 - 4 monthes\C#\intermediate\W4_Assments\Simple_Bank_System\Simple_Bank_System\bin\Debug\net8.0\Simple_Bank_System.exe
+D:\Work\Work 2025\4. Makeen 2 Trainning\Phase 4 - 4 monthes\C#\intermediate\W4_Assments\Simple_Bank_System\Simple_Bank_System\bin\Debug\net8.0\Simple_Bank_System.deps.json
+D:\Work\Work 2025\4. Makeen 2 Trainning\Phase 4 - 4 monthes\C#\intermediate\W4_Assments\Simple_Bank_System\Simple_Bank_System\bin\Debug\net8.0\Simple_Bank_System.runtimeconfig.json
+D:\Work\Work 2025\4. Makeen 2 Trainning\Phase 4 - 4 monthes\C#\intermediate\W4_Assments\Simple_Bank_System\Simple_Bank_System\bin\Debug\net8.0\Simple_Bank_System.dll
+D:\Work\Work 2025\4. Makeen 2 Trainning\Phase 4 - 4 monthes\C#\intermediate\W4_Assments\Simple_Bank_System\Simple_Bank_System\bin\Debug\net8.0\Simple_Bank_System.pdb
+D:\Work\Work 2025\4. Makeen 2 Trainning\Phase 4 - 4 monthes\C#\intermediate\W4_Assments\Simple_Bank_System\Simple_Bank_System\obj\Debug\net8.0\Simple_Bank_System.dll
+D:\Work\Work 2025\4. Makeen 2 Trainning\Phase 4 - 4 monthes\C#\intermediate\W4_Assments\Simple_Bank_System\Simple_Bank_System\obj\Debug\net8.0\refint\Simple_Bank_System.dll
+D:\Work\Work 2025\4. Makeen 2 Trainning\Phase 4 - 4 monthes\C#\intermediate\W4_Assments\Simple_Bank_System\Simple_Bank_System\obj\Debug\net8.0\Simple_Bank_System.pdb
+D:\Work\Work 2025\4. Makeen 2 Trainning\Phase 4 - 4 monthes\C#\intermediate\W4_Assments\Simple_Bank_System\Simple_Bank_System\obj\Debug\net8.0\Simple_Bank_System.genruntimeconfig.cache
+D:\Work\Work 2025\4. Makeen 2 Trainning\Phase 4 - 4 monthes\C#\intermediate\W4_Assments\Simple_Bank_System\Simple_Bank_System\obj\Debug\net8.0\ref\Simple_Bank_System.dll

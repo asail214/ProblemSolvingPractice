@@ -1,0 +1,14 @@
+D:\Work\Work 2025\4. Makeen 2 Trainning\Phase 4 - 4 monthes\Problem_Solving_Practice\CSharp_Code\C_Sharp_Exam\C_Sharp_Exam\bin\Debug\net8.0\C_Sharp_Exam.exe
+D:\Work\Work 2025\4. Makeen 2 Trainning\Phase 4 - 4 monthes\Problem_Solving_Practice\CSharp_Code\C_Sharp_Exam\C_Sharp_Exam\bin\Debug\net8.0\C_Sharp_Exam.deps.json
+D:\Work\Work 2025\4. Makeen 2 Trainning\Phase 4 - 4 monthes\Problem_Solving_Practice\CSharp_Code\C_Sharp_Exam\C_Sharp_Exam\bin\Debug\net8.0\C_Sharp_Exam.runtimeconfig.json
+D:\Work\Work 2025\4. Makeen 2 Trainning\Phase 4 - 4 monthes\Problem_Solving_Practice\CSharp_Code\C_Sharp_Exam\C_Sharp_Exam\bin\Debug\net8.0\C_Sharp_Exam.dll
+D:\Work\Work 2025\4. Makeen 2 Trainning\Phase 4 - 4 monthes\Problem_Solving_Practice\CSharp_Code\C_Sharp_Exam\C_Sharp_Exam\bin\Debug\net8.0\C_Sharp_Exam.pdb
+D:\Work\Work 2025\4. Makeen 2 Trainning\Phase 4 - 4 monthes\Problem_Solving_Practice\CSharp_Code\C_Sharp_Exam\C_Sharp_Exam\obj\Debug\net8.0\C_Sharp_Exam.GeneratedMSBuildEditorConfig.editorconfig
+D:\Work\Work 2025\4. Makeen 2 Trainning\Phase 4 - 4 monthes\Problem_Solving_Practice\CSharp_Code\C_Sharp_Exam\C_Sharp_Exam\obj\Debug\net8.0\C_Sharp_Exam.AssemblyInfoInputs.cache
+D:\Work\Work 2025\4. Makeen 2 Trainning\Phase 4 - 4 monthes\Problem_Solving_Practice\CSharp_Code\C_Sharp_Exam\C_Sharp_Exam\obj\Debug\net8.0\C_Sharp_Exam.AssemblyInfo.cs
+D:\Work\Work 2025\4. Makeen 2 Trainning\Phase 4 - 4 monthes\Problem_Solving_Practice\CSharp_Code\C_Sharp_Exam\C_Sharp_Exam\obj\Debug\net8.0\C_Sharp_Exam.csproj.CoreCompileInputs.cache
+D:\Work\Work 2025\4. Makeen 2 Trainning\Phase 4 - 4 monthes\Problem_Solving_Practice\CSharp_Code\C_Sharp_Exam\C_Sharp_Exam\obj\Debug\net8.0\C_Sharp_Exam.dll
+D:\Work\Work 2025\4. Makeen 2 Trainning\Phase 4 - 4 monthes\Problem_Solving_Practice\CSharp_Code\C_Sharp_Exam\C_Sharp_Exam\obj\Debug\net8.0\refint\C_Sharp_Exam.dll
+D:\Work\Work 2025\4. Makeen 2 Trainning\Phase 4 - 4 monthes\Problem_Solving_Practice\CSharp_Code\C_Sharp_Exam\C_Sharp_Exam\obj\Debug\net8.0\C_Sharp_Exam.pdb
+D:\Work\Work 2025\4. Makeen 2 Trainning\Phase 4 - 4 monthes\Problem_Solving_Practice\CSharp_Code\C_Sharp_Exam\C_Sharp_Exam\obj\Debug\net8.0\C_Sharp_Exam.genruntimeconfig.cache
+D:\Work\Work 2025\4. Makeen 2 Trainning\Phase 4 - 4 monthes\Problem_Solving_Practice\CSharp_Code\C_Sharp_Exam\C_Sharp_Exam\obj\Debug\net8.0\ref\C_Sharp_Exam.dll

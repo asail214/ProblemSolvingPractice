@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Work\\Work 2025\\4. Makeen 2 Trainning\\Phase 4 - 4 monthes\\C#\\intermediate\\W4_Assments\\002-OOP Assignment\\oop_Animal_Sound_Simulation\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{4D40D0A0-4D65-432F-BAD8-D31D85DF617B}|oop_Animal_Sound_Simulation\\oop_Animal_Sound_Simulation.csproj|d:\\work\\work 2025\\4. makeen 2 trainning\\phase 4 - 4 monthes\\c#\\intermediate\\w4_assments\\002-oop assignment\\oop_animal_sound_simulation\\oop_animal_sound_simulation\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4D40D0A0-4D65-432F-BAD8-D31D85DF617B}|oop_Animal_Sound_Simulation\\oop_Animal_Sound_Simulation.csproj|solutionrelative:oop_animal_sound_simulation\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Work\\Work 2025\\4. Makeen 2 Trainning\\Phase 4 - 4 monthes\\C#\\intermediate\\W4_Assments\\002-OOP Assignment\\oop_Animal_Sound_Simulation\\oop_Animal_Sound_Simulation\\Program.cs",
+              "RelativeDocumentMoniker": "oop_Animal_Sound_Simulation\\Program.cs",
+              "ToolTip": "D:\\Work\\Work 2025\\4. Makeen 2 Trainning\\Phase 4 - 4 monthes\\C#\\intermediate\\W4_Assments\\002-OOP Assignment\\oop_Animal_Sound_Simulation\\oop_Animal_Sound_Simulation\\Program.cs",
+              "RelativeToolTip": "oop_Animal_Sound_Simulation\\Program.cs",
+              "ViewState": "AgIAAEsAAAAAAAAAAAAuwFMAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-04T19:55:58.518Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

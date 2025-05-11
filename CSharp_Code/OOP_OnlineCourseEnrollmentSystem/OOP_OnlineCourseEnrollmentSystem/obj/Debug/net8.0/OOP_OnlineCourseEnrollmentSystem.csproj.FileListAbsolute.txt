@@ -1,0 +1,1 @@
+D:\Work\Work 2025\4. Makeen 2 Trainning\Phase 4 - 4 monthes\C#\intermediate\W4_Assments\003-OOPAssignment\OOP_OnlineCourseEnrollmentSystem\OOP_OnlineCourseEnrollmentSystem\obj\Debug\net8.0\OOP_OnlineCourseEnrollmentSystem.GeneratedMSBuildEditorConfig.editorconfig
