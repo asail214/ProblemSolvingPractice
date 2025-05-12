@@ -1,0 +1,200 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Work\\Work 2025\\4. Makeen 2 Trainning\\Phase 4 - 4 monthes\\C#\\class codes\\Database week 5\\W5_AirportManagementSystem\\AirportManagementSystem\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{9EB889B1-B43C-42B3-8C6D-8F3411AEA8B2}|AirportManagementSystem\\AirportManagementSystem.csproj|d:\\work\\work 2025\\4. makeen 2 trainning\\phase 4 - 4 monthes\\c#\\class codes\\database week 5\\w5_airportmanagementsystem\\airportmanagementsystem\\airportmanagementsystem\\context\\airportmanagementsystem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9EB889B1-B43C-42B3-8C6D-8F3411AEA8B2}|AirportManagementSystem\\AirportManagementSystem.csproj|solutionrelative:airportmanagementsystem\\context\\airportmanagementsystem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9EB889B1-B43C-42B3-8C6D-8F3411AEA8B2}|AirportManagementSystem\\AirportManagementSystem.csproj|d:\\work\\work 2025\\4. makeen 2 trainning\\phase 4 - 4 monthes\\c#\\class codes\\database week 5\\w5_airportmanagementsystem\\airportmanagementsystem\\airportmanagementsystem\\models\\flight.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9EB889B1-B43C-42B3-8C6D-8F3411AEA8B2}|AirportManagementSystem\\AirportManagementSystem.csproj|solutionrelative:airportmanagementsystem\\models\\flight.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9EB889B1-B43C-42B3-8C6D-8F3411AEA8B2}|AirportManagementSystem\\AirportManagementSystem.csproj|d:\\work\\work 2025\\4. makeen 2 trainning\\phase 4 - 4 monthes\\c#\\class codes\\database week 5\\w5_airportmanagementsystem\\airportmanagementsystem\\airportmanagementsystem\\models\\airline.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9EB889B1-B43C-42B3-8C6D-8F3411AEA8B2}|AirportManagementSystem\\AirportManagementSystem.csproj|solutionrelative:airportmanagementsystem\\models\\airline.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9EB889B1-B43C-42B3-8C6D-8F3411AEA8B2}|AirportManagementSystem\\AirportManagementSystem.csproj|d:\\work\\work 2025\\4. makeen 2 trainning\\phase 4 - 4 monthes\\c#\\class codes\\database week 5\\w5_airportmanagementsystem\\airportmanagementsystem\\airportmanagementsystem\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9EB889B1-B43C-42B3-8C6D-8F3411AEA8B2}|AirportManagementSystem\\AirportManagementSystem.csproj|solutionrelative:airportmanagementsystem\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9EB889B1-B43C-42B3-8C6D-8F3411AEA8B2}|AirportManagementSystem\\AirportManagementSystem.csproj|d:\\work\\work 2025\\4. makeen 2 trainning\\phase 4 - 4 monthes\\c#\\class codes\\database week 5\\w5_airportmanagementsystem\\airportmanagementsystem\\airportmanagementsystem\\models\\securitycheckpoint.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9EB889B1-B43C-42B3-8C6D-8F3411AEA8B2}|AirportManagementSystem\\AirportManagementSystem.csproj|solutionrelative:airportmanagementsystem\\models\\securitycheckpoint.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9EB889B1-B43C-42B3-8C6D-8F3411AEA8B2}|AirportManagementSystem\\AirportManagementSystem.csproj|d:\\work\\work 2025\\4. makeen 2 trainning\\phase 4 - 4 monthes\\c#\\class codes\\database week 5\\w5_airportmanagementsystem\\airportmanagementsystem\\airportmanagementsystem\\models\\gate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9EB889B1-B43C-42B3-8C6D-8F3411AEA8B2}|AirportManagementSystem\\AirportManagementSystem.csproj|solutionrelative:airportmanagementsystem\\models\\gate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9EB889B1-B43C-42B3-8C6D-8F3411AEA8B2}|AirportManagementSystem\\AirportManagementSystem.csproj|d:\\work\\work 2025\\4. makeen 2 trainning\\phase 4 - 4 monthes\\c#\\class codes\\database week 5\\w5_airportmanagementsystem\\airportmanagementsystem\\airportmanagementsystem\\models\\terminal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9EB889B1-B43C-42B3-8C6D-8F3411AEA8B2}|AirportManagementSystem\\AirportManagementSystem.csproj|solutionrelative:airportmanagementsystem\\models\\terminal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9EB889B1-B43C-42B3-8C6D-8F3411AEA8B2}|AirportManagementSystem\\AirportManagementSystem.csproj|d:\\work\\work 2025\\4. makeen 2 trainning\\phase 4 - 4 monthes\\c#\\class codes\\database week 5\\w5_airportmanagementsystem\\airportmanagementsystem\\airportmanagementsystem\\models\\officer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9EB889B1-B43C-42B3-8C6D-8F3411AEA8B2}|AirportManagementSystem\\AirportManagementSystem.csproj|solutionrelative:airportmanagementsystem\\models\\officer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9EB889B1-B43C-42B3-8C6D-8F3411AEA8B2}|AirportManagementSystem\\AirportManagementSystem.csproj|d:\\work\\work 2025\\4. makeen 2 trainning\\phase 4 - 4 monthes\\c#\\class codes\\database week 5\\w5_airportmanagementsystem\\airportmanagementsystem\\airportmanagementsystem\\models\\baggage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9EB889B1-B43C-42B3-8C6D-8F3411AEA8B2}|AirportManagementSystem\\AirportManagementSystem.csproj|solutionrelative:airportmanagementsystem\\models\\baggage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9EB889B1-B43C-42B3-8C6D-8F3411AEA8B2}|AirportManagementSystem\\AirportManagementSystem.csproj|d:\\work\\work 2025\\4. makeen 2 trainning\\phase 4 - 4 monthes\\c#\\class codes\\database week 5\\w5_airportmanagementsystem\\airportmanagementsystem\\airportmanagementsystem\\models\\passenger.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9EB889B1-B43C-42B3-8C6D-8F3411AEA8B2}|AirportManagementSystem\\AirportManagementSystem.csproj|solutionrelative:airportmanagementsystem\\models\\passenger.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9EB889B1-B43C-42B3-8C6D-8F3411AEA8B2}|AirportManagementSystem\\AirportManagementSystem.csproj|d:\\work\\work 2025\\4. makeen 2 trainning\\phase 4 - 4 monthes\\c#\\class codes\\database week 5\\w5_airportmanagementsystem\\airportmanagementsystem\\airportmanagementsystem\\migrations\\20250511184823_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9EB889B1-B43C-42B3-8C6D-8F3411AEA8B2}|AirportManagementSystem\\AirportManagementSystem.csproj|solutionrelative:airportmanagementsystem\\migrations\\20250511184823_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Gate.cs",
+              "DocumentMoniker": "D:\\Work\\Work 2025\\4. Makeen 2 Trainning\\Phase 4 - 4 monthes\\C#\\class codes\\Database week 5\\W5_AirportManagementSystem\\AirportManagementSystem\\AirportManagementSystem\\Models\\Gate.cs",
+              "RelativeDocumentMoniker": "AirportManagementSystem\\Models\\Gate.cs",
+              "ToolTip": "D:\\Work\\Work 2025\\4. Makeen 2 Trainning\\Phase 4 - 4 monthes\\C#\\class codes\\Database week 5\\W5_AirportManagementSystem\\AirportManagementSystem\\AirportManagementSystem\\Models\\Gate.cs",
+              "RelativeToolTip": "AirportManagementSystem\\Models\\Gate.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABoAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-11T18:33:47.821Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "AirportManagementSystem.cs",
+              "DocumentMoniker": "D:\\Work\\Work 2025\\4. Makeen 2 Trainning\\Phase 4 - 4 monthes\\C#\\class codes\\Database week 5\\W5_AirportManagementSystem\\AirportManagementSystem\\AirportManagementSystem\\Context\\AirportManagementSystem.cs",
+              "RelativeDocumentMoniker": "AirportManagementSystem\\Context\\AirportManagementSystem.cs",
+              "ToolTip": "D:\\Work\\Work 2025\\4. Makeen 2 Trainning\\Phase 4 - 4 monthes\\C#\\class codes\\Database week 5\\W5_AirportManagementSystem\\AirportManagementSystem\\AirportManagementSystem\\Context\\AirportManagementSystem.cs",
+              "RelativeToolTip": "AirportManagementSystem\\Context\\AirportManagementSystem.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-11T18:29:25.953Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Work\\Work 2025\\4. Makeen 2 Trainning\\Phase 4 - 4 monthes\\C#\\class codes\\Database week 5\\W5_AirportManagementSystem\\AirportManagementSystem\\AirportManagementSystem\\Program.cs",
+              "RelativeDocumentMoniker": "AirportManagementSystem\\Program.cs",
+              "ToolTip": "D:\\Work\\Work 2025\\4. Makeen 2 Trainning\\Phase 4 - 4 monthes\\C#\\class codes\\Database week 5\\W5_AirportManagementSystem\\AirportManagementSystem\\AirportManagementSystem\\Program.cs",
+              "RelativeToolTip": "AirportManagementSystem\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-11T18:24:24.036Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "SecurityCheckpoint.cs",
+              "DocumentMoniker": "D:\\Work\\Work 2025\\4. Makeen 2 Trainning\\Phase 4 - 4 monthes\\C#\\class codes\\Database week 5\\W5_AirportManagementSystem\\AirportManagementSystem\\AirportManagementSystem\\Models\\SecurityCheckpoint.cs",
+              "RelativeDocumentMoniker": "AirportManagementSystem\\Models\\SecurityCheckpoint.cs",
+              "ToolTip": "D:\\Work\\Work 2025\\4. Makeen 2 Trainning\\Phase 4 - 4 monthes\\C#\\class codes\\Database week 5\\W5_AirportManagementSystem\\AirportManagementSystem\\AirportManagementSystem\\Models\\SecurityCheckpoint.cs",
+              "RelativeToolTip": "AirportManagementSystem\\Models\\SecurityCheckpoint.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-11T18:34:06.551Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Terminal.cs",
+              "DocumentMoniker": "D:\\Work\\Work 2025\\4. Makeen 2 Trainning\\Phase 4 - 4 monthes\\C#\\class codes\\Database week 5\\W5_AirportManagementSystem\\AirportManagementSystem\\AirportManagementSystem\\Models\\Terminal.cs",
+              "RelativeDocumentMoniker": "AirportManagementSystem\\Models\\Terminal.cs",
+              "ToolTip": "D:\\Work\\Work 2025\\4. Makeen 2 Trainning\\Phase 4 - 4 monthes\\C#\\class codes\\Database week 5\\W5_AirportManagementSystem\\AirportManagementSystem\\AirportManagementSystem\\Models\\Terminal.cs",
+              "RelativeToolTip": "AirportManagementSystem\\Models\\Terminal.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-11T18:33:27.711Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Airline.cs",
+              "DocumentMoniker": "D:\\Work\\Work 2025\\4. Makeen 2 Trainning\\Phase 4 - 4 monthes\\C#\\class codes\\Database week 5\\W5_AirportManagementSystem\\AirportManagementSystem\\AirportManagementSystem\\Models\\Airline.cs",
+              "RelativeDocumentMoniker": "AirportManagementSystem\\Models\\Airline.cs",
+              "ToolTip": "D:\\Work\\Work 2025\\4. Makeen 2 Trainning\\Phase 4 - 4 monthes\\C#\\class codes\\Database week 5\\W5_AirportManagementSystem\\AirportManagementSystem\\AirportManagementSystem\\Models\\Airline.cs",
+              "RelativeToolTip": "AirportManagementSystem\\Models\\Airline.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-11T18:31:42.941Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Flight.cs",
+              "DocumentMoniker": "D:\\Work\\Work 2025\\4. Makeen 2 Trainning\\Phase 4 - 4 monthes\\C#\\class codes\\Database week 5\\W5_AirportManagementSystem\\AirportManagementSystem\\AirportManagementSystem\\Models\\Flight.cs",
+              "RelativeDocumentMoniker": "AirportManagementSystem\\Models\\Flight.cs",
+              "ToolTip": "D:\\Work\\Work 2025\\4. Makeen 2 Trainning\\Phase 4 - 4 monthes\\C#\\class codes\\Database week 5\\W5_AirportManagementSystem\\AirportManagementSystem\\AirportManagementSystem\\Models\\Flight.cs",
+              "RelativeToolTip": "AirportManagementSystem\\Models\\Flight.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACAAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-11T18:32:05.708Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "20250511184823_InitialCreate.cs",
+              "DocumentMoniker": "D:\\Work\\Work 2025\\4. Makeen 2 Trainning\\Phase 4 - 4 monthes\\C#\\class codes\\Database week 5\\W5_AirportManagementSystem\\AirportManagementSystem\\AirportManagementSystem\\Migrations\\20250511184823_InitialCreate.cs",
+              "RelativeDocumentMoniker": "AirportManagementSystem\\Migrations\\20250511184823_InitialCreate.cs",
+              "ToolTip": "D:\\Work\\Work 2025\\4. Makeen 2 Trainning\\Phase 4 - 4 monthes\\C#\\class codes\\Database week 5\\W5_AirportManagementSystem\\AirportManagementSystem\\AirportManagementSystem\\Migrations\\20250511184823_InitialCreate.cs",
+              "RelativeToolTip": "AirportManagementSystem\\Migrations\\20250511184823_InitialCreate.cs",
+              "ViewState": "AgIAAEAAAAAAAAAAAAAQwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-11T18:48:23.534Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Officer.cs",
+              "DocumentMoniker": "D:\\Work\\Work 2025\\4. Makeen 2 Trainning\\Phase 4 - 4 monthes\\C#\\class codes\\Database week 5\\W5_AirportManagementSystem\\AirportManagementSystem\\AirportManagementSystem\\Models\\Officer.cs",
+              "RelativeDocumentMoniker": "AirportManagementSystem\\Models\\Officer.cs",
+              "ToolTip": "D:\\Work\\Work 2025\\4. Makeen 2 Trainning\\Phase 4 - 4 monthes\\C#\\class codes\\Database week 5\\W5_AirportManagementSystem\\AirportManagementSystem\\AirportManagementSystem\\Models\\Officer.cs",
+              "RelativeToolTip": "AirportManagementSystem\\Models\\Officer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-11T18:33:07.698Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Baggage.cs",
+              "DocumentMoniker": "D:\\Work\\Work 2025\\4. Makeen 2 Trainning\\Phase 4 - 4 monthes\\C#\\class codes\\Database week 5\\W5_AirportManagementSystem\\AirportManagementSystem\\AirportManagementSystem\\Models\\Baggage.cs",
+              "RelativeDocumentMoniker": "AirportManagementSystem\\Models\\Baggage.cs",
+              "ToolTip": "D:\\Work\\Work 2025\\4. Makeen 2 Trainning\\Phase 4 - 4 monthes\\C#\\class codes\\Database week 5\\W5_AirportManagementSystem\\AirportManagementSystem\\AirportManagementSystem\\Models\\Baggage.cs",
+              "RelativeToolTip": "AirportManagementSystem\\Models\\Baggage.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-11T18:32:48.105Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Passenger.cs",
+              "DocumentMoniker": "D:\\Work\\Work 2025\\4. Makeen 2 Trainning\\Phase 4 - 4 monthes\\C#\\class codes\\Database week 5\\W5_AirportManagementSystem\\AirportManagementSystem\\AirportManagementSystem\\Models\\Passenger.cs",
+              "RelativeDocumentMoniker": "AirportManagementSystem\\Models\\Passenger.cs",
+              "ToolTip": "D:\\Work\\Work 2025\\4. Makeen 2 Trainning\\Phase 4 - 4 monthes\\C#\\class codes\\Database week 5\\W5_AirportManagementSystem\\AirportManagementSystem\\AirportManagementSystem\\Models\\Passenger.cs",
+              "RelativeToolTip": "AirportManagementSystem\\Models\\Passenger.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-11T18:32:25.857Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
