@@ -1,0 +1,173 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Work\\Work 2025\\4. Makeen 2 Trainning\\Phase 4 - 4 monthes\\C#\\class codes\\SoharLibrary\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{4B12C963-24FE-4112-BE71-78D506EEACF5}|SoharLibrary\\SoharLibrary.csproj|d:\\work\\work 2025\\4. makeen 2 trainning\\phase 4 - 4 monthes\\c#\\class codes\\soharlibrary\\soharlibrary\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4B12C963-24FE-4112-BE71-78D506EEACF5}|SoharLibrary\\SoharLibrary.csproj|solutionrelative:soharlibrary\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4B12C963-24FE-4112-BE71-78D506EEACF5}|SoharLibrary\\SoharLibrary.csproj|d:\\work\\work 2025\\4. makeen 2 trainning\\phase 4 - 4 monthes\\c#\\class codes\\soharlibrary\\soharlibrary\\migrations\\20250518052403_initialmigration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4B12C963-24FE-4112-BE71-78D506EEACF5}|SoharLibrary\\SoharLibrary.csproj|solutionrelative:soharlibrary\\migrations\\20250518052403_initialmigration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4B12C963-24FE-4112-BE71-78D506EEACF5}|SoharLibrary\\SoharLibrary.csproj|d:\\work\\work 2025\\4. makeen 2 trainning\\phase 4 - 4 monthes\\c#\\class codes\\soharlibrary\\soharlibrary\\models\\borrow.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4B12C963-24FE-4112-BE71-78D506EEACF5}|SoharLibrary\\SoharLibrary.csproj|solutionrelative:soharlibrary\\models\\borrow.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4B12C963-24FE-4112-BE71-78D506EEACF5}|SoharLibrary\\SoharLibrary.csproj|d:\\work\\work 2025\\4. makeen 2 trainning\\phase 4 - 4 monthes\\c#\\class codes\\soharlibrary\\soharlibrary\\models\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4B12C963-24FE-4112-BE71-78D506EEACF5}|SoharLibrary\\SoharLibrary.csproj|solutionrelative:soharlibrary\\models\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4B12C963-24FE-4112-BE71-78D506EEACF5}|SoharLibrary\\SoharLibrary.csproj|d:\\work\\work 2025\\4. makeen 2 trainning\\phase 4 - 4 monthes\\c#\\class codes\\soharlibrary\\soharlibrary\\configuration\\memberconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4B12C963-24FE-4112-BE71-78D506EEACF5}|SoharLibrary\\SoharLibrary.csproj|solutionrelative:soharlibrary\\configuration\\memberconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4B12C963-24FE-4112-BE71-78D506EEACF5}|SoharLibrary\\SoharLibrary.csproj|d:\\work\\work 2025\\4. makeen 2 trainning\\phase 4 - 4 monthes\\c#\\class codes\\soharlibrary\\soharlibrary\\configuration\\bookconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4B12C963-24FE-4112-BE71-78D506EEACF5}|SoharLibrary\\SoharLibrary.csproj|solutionrelative:soharlibrary\\configuration\\bookconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4B12C963-24FE-4112-BE71-78D506EEACF5}|SoharLibrary\\SoharLibrary.csproj|d:\\work\\work 2025\\4. makeen 2 trainning\\phase 4 - 4 monthes\\c#\\class codes\\soharlibrary\\soharlibrary\\configuration\\borrowconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4B12C963-24FE-4112-BE71-78D506EEACF5}|SoharLibrary\\SoharLibrary.csproj|solutionrelative:soharlibrary\\configuration\\borrowconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4B12C963-24FE-4112-BE71-78D506EEACF5}|SoharLibrary\\SoharLibrary.csproj|d:\\work\\work 2025\\4. makeen 2 trainning\\phase 4 - 4 monthes\\c#\\class codes\\soharlibrary\\soharlibrary\\models\\member.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4B12C963-24FE-4112-BE71-78D506EEACF5}|SoharLibrary\\SoharLibrary.csproj|solutionrelative:soharlibrary\\models\\member.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4B12C963-24FE-4112-BE71-78D506EEACF5}|SoharLibrary\\SoharLibrary.csproj|d:\\work\\work 2025\\4. makeen 2 trainning\\phase 4 - 4 monthes\\c#\\class codes\\soharlibrary\\soharlibrary\\context\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4B12C963-24FE-4112-BE71-78D506EEACF5}|SoharLibrary\\SoharLibrary.csproj|solutionrelative:soharlibrary\\context\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "20250518052403_InitialMigration.cs",
+              "DocumentMoniker": "D:\\Work\\Work 2025\\4. Makeen 2 Trainning\\Phase 4 - 4 monthes\\C#\\class codes\\SoharLibrary\\SoharLibrary\\Migrations\\20250518052403_InitialMigration.cs",
+              "RelativeDocumentMoniker": "SoharLibrary\\Migrations\\20250518052403_InitialMigration.cs",
+              "ToolTip": "D:\\Work\\Work 2025\\4. Makeen 2 Trainning\\Phase 4 - 4 monthes\\C#\\class codes\\SoharLibrary\\SoharLibrary\\Migrations\\20250518052403_InitialMigration.cs",
+              "RelativeToolTip": "SoharLibrary\\Migrations\\20250518052403_InitialMigration.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-18T05:24:04.811Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Work\\Work 2025\\4. Makeen 2 Trainning\\Phase 4 - 4 monthes\\C#\\class codes\\SoharLibrary\\SoharLibrary\\Program.cs",
+              "RelativeDocumentMoniker": "SoharLibrary\\Program.cs",
+              "ToolTip": "D:\\Work\\Work 2025\\4. Makeen 2 Trainning\\Phase 4 - 4 monthes\\C#\\class codes\\SoharLibrary\\SoharLibrary\\Program.cs",
+              "RelativeToolTip": "SoharLibrary\\Program.cs",
+              "ViewState": "AgIAACEBAAAAAAAAAAAAAAYBAAA1AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-18T03:36:09.679Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "BorrowConfiguration.cs",
+              "DocumentMoniker": "D:\\Work\\Work 2025\\4. Makeen 2 Trainning\\Phase 4 - 4 monthes\\C#\\class codes\\SoharLibrary\\SoharLibrary\\Configuration\\BorrowConfiguration.cs",
+              "RelativeDocumentMoniker": "SoharLibrary\\Configuration\\BorrowConfiguration.cs",
+              "ToolTip": "D:\\Work\\Work 2025\\4. Makeen 2 Trainning\\Phase 4 - 4 monthes\\C#\\class codes\\SoharLibrary\\SoharLibrary\\Configuration\\BorrowConfiguration.cs",
+              "RelativeToolTip": "SoharLibrary\\Configuration\\BorrowConfiguration.cs",
+              "ViewState": "AgIAABoAAAAAAAAAAAAAABoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-18T04:36:31.094Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Member.cs",
+              "DocumentMoniker": "D:\\Work\\Work 2025\\4. Makeen 2 Trainning\\Phase 4 - 4 monthes\\C#\\class codes\\SoharLibrary\\SoharLibrary\\Models\\Member.cs",
+              "RelativeDocumentMoniker": "SoharLibrary\\Models\\Member.cs",
+              "ToolTip": "D:\\Work\\Work 2025\\4. Makeen 2 Trainning\\Phase 4 - 4 monthes\\C#\\class codes\\SoharLibrary\\SoharLibrary\\Models\\Member.cs",
+              "RelativeToolTip": "SoharLibrary\\Models\\Member.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-18T03:37:06.987Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Borrow.cs",
+              "DocumentMoniker": "D:\\Work\\Work 2025\\4. Makeen 2 Trainning\\Phase 4 - 4 monthes\\C#\\class codes\\SoharLibrary\\SoharLibrary\\Models\\Borrow.cs",
+              "RelativeDocumentMoniker": "SoharLibrary\\Models\\Borrow.cs",
+              "ToolTip": "D:\\Work\\Work 2025\\4. Makeen 2 Trainning\\Phase 4 - 4 monthes\\C#\\class codes\\SoharLibrary\\SoharLibrary\\Models\\Borrow.cs",
+              "RelativeToolTip": "SoharLibrary\\Models\\Borrow.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAgwA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-18T03:37:55.153Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "BookConfiguration.cs",
+              "DocumentMoniker": "D:\\Work\\Work 2025\\4. Makeen 2 Trainning\\Phase 4 - 4 monthes\\C#\\class codes\\SoharLibrary\\SoharLibrary\\Configuration\\BookConfiguration.cs",
+              "RelativeDocumentMoniker": "SoharLibrary\\Configuration\\BookConfiguration.cs",
+              "ToolTip": "D:\\Work\\Work 2025\\4. Makeen 2 Trainning\\Phase 4 - 4 monthes\\C#\\class codes\\SoharLibrary\\SoharLibrary\\Configuration\\BookConfiguration.cs",
+              "RelativeToolTip": "SoharLibrary\\Configuration\\BookConfiguration.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAgAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-18T04:36:17.667Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "MemberConfiguration.cs",
+              "DocumentMoniker": "D:\\Work\\Work 2025\\4. Makeen 2 Trainning\\Phase 4 - 4 monthes\\C#\\class codes\\SoharLibrary\\SoharLibrary\\Configuration\\MemberConfiguration.cs",
+              "RelativeDocumentMoniker": "SoharLibrary\\Configuration\\MemberConfiguration.cs",
+              "ToolTip": "D:\\Work\\Work 2025\\4. Makeen 2 Trainning\\Phase 4 - 4 monthes\\C#\\class codes\\SoharLibrary\\SoharLibrary\\Configuration\\MemberConfiguration.cs",
+              "RelativeToolTip": "SoharLibrary\\Configuration\\MemberConfiguration.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAQwBIAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-18T04:35:57.97Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Book.cs",
+              "DocumentMoniker": "D:\\Work\\Work 2025\\4. Makeen 2 Trainning\\Phase 4 - 4 monthes\\C#\\class codes\\SoharLibrary\\SoharLibrary\\Models\\Book.cs",
+              "RelativeDocumentMoniker": "SoharLibrary\\Models\\Book.cs",
+              "ToolTip": "D:\\Work\\Work 2025\\4. Makeen 2 Trainning\\Phase 4 - 4 monthes\\C#\\class codes\\SoharLibrary\\SoharLibrary\\Models\\Book.cs",
+              "RelativeToolTip": "SoharLibrary\\Models\\Book.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAxwBMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-18T03:37:20.612Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "ApplicationDBContext.cs",
+              "DocumentMoniker": "D:\\Work\\Work 2025\\4. Makeen 2 Trainning\\Phase 4 - 4 monthes\\C#\\class codes\\SoharLibrary\\SoharLibrary\\Context\\ApplicationDBContext.cs",
+              "RelativeDocumentMoniker": "SoharLibrary\\Context\\ApplicationDBContext.cs",
+              "ToolTip": "D:\\Work\\Work 2025\\4. Makeen 2 Trainning\\Phase 4 - 4 monthes\\C#\\class codes\\SoharLibrary\\SoharLibrary\\Context\\ApplicationDBContext.cs",
+              "RelativeToolTip": "SoharLibrary\\Context\\ApplicationDBContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-18T04:08:43.105Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
