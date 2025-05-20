@@ -1,0 +1,82 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Makeen Bootcamp</title>
+  
+  <!-- Bootstrap CSS CDN -->
+  <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/css/bootstrap.min.css" rel="stylesheet">
+
+  <!-- External CSS -->
+  <link rel="stylesheet" href="assets/css/style.css" />
+</head>
+
+<body class="d-flex flex-column min-vh-100">
+
+  <!-- Navigation Bar -->
+  <nav class="navbar navbar-expand-lg navbar-dark bg-primary">
+    <div class="container">
+      <a class="navbar-brand" href="#">Makeen Bootcamp</a>
+      <ul class="navbar-nav ms-auto">
+        <li class="nav-item"><a class="nav-link" href="#">Home</a></li>
+        <li class="nav-item"><a class="nav-link" href="#">About</a></li>
+        <li class="nav-item"><a class="nav-link" href="#">Contact</a></li>
+      </ul>
+    </div>
+  </nav>
+
+  <!-- Main Content -->
+  <div class="container text-center my-5 flex-grow-1">
+    <h1 class="text-primary">Welcome to Makeen Bootcamp</h1>
+    <p>Start your tech journey with hands-on training and real projects.</p>
+    <img 
+      src="https://images.unsplash.com/photo-1571260899304-425eee4c7efc" 
+      alt="University student in class" 
+      class="img-fluid rounded mt-4" 
+      style="max-width: 700px;" />
+  </div>
+
+  <div class="container text-decoration my-5 flex-grow-1">
+    <form>
+  <fieldset name="personal_details">
+    <legend>Personal Details</legend>
+    <label for="fname">First name:</label>
+    <input type="text" id="fname" name="fname"><br>
+    <label for="lname">Last name:</label>
+    <input type="text" id="lname" name="lname"><br>
+    <label for="email">Email:</label>
+    <input type="email" id="email" name="email"><br>
+    <label for="phone">Phone Number:</label>
+    <input type="tel" id="phone" name="phone"><br>
+  </fieldset>
+
+  <br>
+
+  <fieldset name="professional_details">
+    <legend>Professional Details</legend>
+    <label for="occupation">Occupation:</label>
+    <input type="text" id="occupation" name="occupation"><br>
+    <label for="company">Company:</label>
+    <input type="text" id="company" name="company"><br>
+    <label for="start">Start Date:</label>
+    <input type="date" id="start" name="start"><br>
+    <label for="end">End Date:</label>
+    <input type="date" id="end" name="end"><br>
+  </fieldset>
+
+  <br>
+  <input type="submit" value="Submit">
+</form>
+
+  </div>
+
+  <!-- Footer -->
+  <footer class="bg-light text-center py-3 mt-auto" style="background-color: #aeb1cd !important;">
+    &copy; Asail Alshukaili. All rights reserved.
+  </footer>
+
+</body>
+
+
+</html>
